@@ -1,5 +1,4 @@
 #include <iostream>
-#include <algorithm>
 using namespace std;
 
 void reverseArray(int a[], int i, int j) {
